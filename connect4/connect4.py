@@ -1,5 +1,5 @@
 
-from aiWrapper import get_ai_move
+from ai import get_ai_move
 from ui import COLS, EMPTY, ROWS
 
 
