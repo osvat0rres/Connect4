@@ -1,4 +1,4 @@
-# drawing.py
+
 import pygame
 
 from ui import (
