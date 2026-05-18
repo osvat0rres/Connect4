@@ -1,7 +1,7 @@
-# constants.py
 
-ROWS = 7
-COLS = 8
+# rowas acn be edit to any size
+ROWS = 10
+COLS = 10
 
 PLAYER_1_PIECE = "R"
 PLAYER_2_PIECE = "Y"
