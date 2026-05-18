@@ -1,5 +1,5 @@
 
-# rowas acn be edit to any size
+# rows can be edit to any size
 ROWS = 10
 COLS = 10
 
